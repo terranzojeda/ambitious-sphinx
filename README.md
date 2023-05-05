@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
