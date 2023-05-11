@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Segment TensorRT batch=3 fix (#7952)
