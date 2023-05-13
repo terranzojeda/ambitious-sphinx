@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Update Roboflow segmentation Docs pages (#8094)
