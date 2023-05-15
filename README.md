@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Elaborate Train and Predict mode docs arguments (#8137)
