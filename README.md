@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add simple-utilities.md Docs page (#8269)
