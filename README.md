@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+New HUB Cloud Training docs page (#8174)
