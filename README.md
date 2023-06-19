@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
