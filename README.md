@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+ultralytics 8.1.33 fix HUB model checks (#9153)
