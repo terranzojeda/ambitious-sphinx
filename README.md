@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Clarify triton server boolean value (#8532)
