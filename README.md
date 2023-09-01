@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Update Docs Home and Neural Magic pages (#7243)
