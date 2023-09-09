@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Update pyproject.toml and Docs (#7274)
