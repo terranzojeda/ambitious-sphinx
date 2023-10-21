@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add CoreML Docs Integrations Page (#8063)
