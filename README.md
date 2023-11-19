@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
