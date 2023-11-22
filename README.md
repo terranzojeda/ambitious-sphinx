@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+fix yolo classify model loading error (#9196)
