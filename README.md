@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Compare plt.get_backend() in lowercase (#8409)
