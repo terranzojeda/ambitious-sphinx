@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Remove unused variables (#8511)
