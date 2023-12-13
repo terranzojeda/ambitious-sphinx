@@ -1,1 +1,1 @@
-fix non-coco val
+Add docs guide terminal images (#8819)
