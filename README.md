@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Update Colab notebook for YOLOv8.1 (#8660)
