@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
