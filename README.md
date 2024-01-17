@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
