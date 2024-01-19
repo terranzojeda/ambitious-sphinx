@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
