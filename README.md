@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add estimate_speed(region_color) parameter (#8285)
