@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Improve Coral Edge TPU guide (#8160)
