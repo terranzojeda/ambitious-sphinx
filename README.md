@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Reverse IoU threshold for NMS docs descriptions (#9151)
