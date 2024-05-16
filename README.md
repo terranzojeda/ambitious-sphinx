@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Hold failed upload metrics and upload with next upload metrics (#8513)
