@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add TensorRT Docs Integrations Page (#7855)
