@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+New HUB Cloud Training docs page (#8174)
