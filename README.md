@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Update fraction arg to employ a random selection (#8234)
