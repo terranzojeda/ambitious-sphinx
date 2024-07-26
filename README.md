@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add quantization support to TensorFlow.js converter (#7008)
