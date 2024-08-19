@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Update fraction arg to employ a random selection (#8234)
