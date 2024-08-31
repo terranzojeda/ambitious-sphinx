@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
