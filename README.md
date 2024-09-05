@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
