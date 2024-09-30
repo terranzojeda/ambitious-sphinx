@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix OpenVINO missing batch-size bug (#9264)
