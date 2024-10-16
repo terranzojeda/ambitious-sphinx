@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
