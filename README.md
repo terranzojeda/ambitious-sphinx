@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Expand Model method type hinting (#8279)
