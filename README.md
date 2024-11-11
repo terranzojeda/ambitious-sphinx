@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
